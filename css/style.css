@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Capriola");
+body {
+  background: #00ddff;
+}
+
+h1 {
+  font-family: "Capriola", sans-serif;
+  color: blue;
+  margin: 0px 600px;
+}
+
+h2 {
+  font-family: "Capriola", sans-serif;
+  color: blue;
+  background: green;
+  margin: 0px 600px;
+}
+
+img {
+  width: 200px;
+  display: block;
+  margin: 10px;
+}
+
+p {
+  color: blue;
+  background: yellow;
+}
+
+.Top {
+  background: orange;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  background: white;
+  width: 200px;
+}
+
+.box2 {
+  background: grey;
+  width: 200px;
+}
+
+.box3 {
+  background: black;
+  width: 200px;
+}
